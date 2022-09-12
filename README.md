@@ -18,4 +18,3 @@
 # Steps
   Seleção dos nomes em linha e dos elementos em coluna, e então filtrando por raridade e principais funções.
  
-https://public.tableau.com/views/GenshinProjeto/Portipodearma?:language=pt-BR&:display_count=n&:origin=viz_share_link
